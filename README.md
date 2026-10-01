@@ -16,10 +16,10 @@ Sous Windows, remplacer `python` par `py` si nécessaire. Ouvrir http://localhos
 
 ## Tests
 
-Avec Node.js 22 ou supérieur :
+Avec Node.js 24 :
 
 ```sh
-node --experimental-default-type=module --test tests/*.test.mjs
+node --test tests/*.test.mjs
 ```
 
 ## Sources
